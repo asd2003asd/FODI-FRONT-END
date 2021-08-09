@@ -7,7 +7,7 @@ proxies:
   - name: 🎶 解锁
     type: http
     server: mxy.1436789.xyz
-    port: 8080
+    port: 10086
   - name: ‼️ 免费代理，遇收费请举报
     type: ss
     server: 127.0.0.1
