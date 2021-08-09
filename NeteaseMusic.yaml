@@ -1,0 +1,16 @@
+# URL:     https://raw.githubusercontent.com/DesperadoJ/Rules-for-UnblockNeteaseMusic/master/Clash/Proxy/NeteaseMusic.yaml
+# Project: https://github.com/DesperadoJ/Rules-for-UnblockNeteaseMusic
+# Note:    This proxy is for free, please complain the seller if you were charged
+#          本代理完全免费，如遇收费请投诉举报卖家
+
+proxies:
+  - name: 🎶 解锁
+    type: http
+    server: mxy.1436789.xyz
+    port: 8080
+  - name: ‼️ 免费代理，遇收费请举报
+    type: ss
+    server: 127.0.0.1
+    port: 8080
+    cipher: aes-128-gcm
+    password: This_proxy_is_for_free
